@@ -1,0 +1,6 @@
+c:\ipc\namedpipes\namedpipes\bin\Debug\namedpipes.exe.config
+c:\ipc\namedpipes\namedpipes\bin\Debug\namedpipes.exe
+c:\ipc\namedpipes\namedpipes\bin\Debug\namedpipes.pdb
+c:\ipc\namedpipes\namedpipes\obj\Debug\namedpipes.csprojResolveAssemblyReference.cache
+c:\ipc\namedpipes\namedpipes\obj\Debug\namedpipes.exe
+c:\ipc\namedpipes\namedpipes\obj\Debug\namedpipes.pdb
